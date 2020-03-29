@@ -1,0 +1,51 @@
+#menuMain				{	margin:85px 0 0 0;
+						}
+
+
+
+#nav, #nav ul 			{	/* all lists */
+							padding: 0;
+							margin: 0;
+							list-style: none;
+							line-height: 1;
+						}
+
+#nav a 					{	display: block;
+							color:white;
+							text-decoration:none;
+						}
+
+#nav li 				{	/* all list items */
+							margin-right:0px;
+							display:block;
+							height:34px;
+							padding-left:60px;
+							/*width: 10em;  width needed or else Opera goes nuts */
+						}
+
+#nav li ul 				{ 	/* second-level lists */
+							position: absolute;
+							background: #e2d3b4;
+							border:1px solid #000000;
+							left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+						}
+
+#nav li ul li 			{	clear:both;
+							margin-right:0px;
+						}
+
+#nav li ul li a 		{	width:124px;
+							padding:3px 4px 3px 12px;
+							color:#000000;
+							font:9pt "Lucida Sans Unicode", "Lucida Grande", Helvetica, sans-serif;
+						}
+#nav li ul li a:hover 	{	background-color:#a58140;
+							color:white;
+						}
+
+#nav li:hover ul, #nav li.sfhover ul 
+						{ 	/* lists nested under hovered list items */
+							left: auto;
+						}
+						
+						

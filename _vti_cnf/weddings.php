@@ -1,0 +1,20 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|20 Jun 2014 20:01:00 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_author:SR|Reins-lap\\Reins
+vti_modifiedby:SR|Reins-lap\\Reins
+vti_timecreated:TR|20 Jun 2014 20:01:00 -0000
+vti_title:SR|<?php echo $defaultPageTitle ?>
+vti_backlinkinfo:VX|
+vti_cacheddtm:TX|20 Jun 2014 20:01:00 -0000
+vti_filesize:IR|8677
+vti_cachedtitle:SR|<?php echo $defaultPageTitle ?>
+vti_cachedbodystyle:SR|<body>
+vti_cachedlinkinfo:VX|S|_images/highslide/highslide-with-gallery.js S|_images/highslide/highslide.config.js Q|_images/highslide/highslide.css X|_images/highslide/highslide-ie6.css Q|_css/global_Main.css Q|_css/global_Menu.css S|_js/globalFunctions.js S|_js/mouseover.js S|includes/ice/ice.js H|< S|_images/global/logoSub.gif S|_images/global/subpage_headerImage3.jpg H|../bodas.php H|mailto:weddings@unionchurchofmonterrey.org H|_images/highslide/sample-images/thumbstrip01.jpg S|_images/highslide/sample-images/thumbstrip01.thumb.jpg H|_images/highslide/sample-images/thumbstrip02.jpg S|_images/highslide/sample-images/thumbstrip02.thumb.jpg H|_images/highslide/sample-images/thumbstrip07.jpg S|_images/highslide/sample-images/thumbstrip07.thumb.jpg H|_images/highslide/sample-images/thumbstrip22.jpg S|_images/highslide/sample-images/thumbstrip22.thumb.jpg H|_images/highslide/sample-images/thumbstrip24.jpg S|_images/highslide/sample-images/thumbstrip24.thumb.jpg H|_images/highslide/sample-images/thumbstrip03.jpg S|_images/highslide/sample-images/thumbstrip03.thumb.jpg H|_images/highslide/sample-images/thumbstrip05.jpg S|_images/highslide/sample-images/thumbstrip05.thumb.jpg H|_images/highslide/sample-images/thumbstrip06.jpg S|_images/highslide/sample-images/thumbstrip06.thumb.jpg H|_images/highslide/sample-images/thumbstrip08.jpg S|_images/highslide/sample-images/thumbstrip08.thumb.jpg S|_images/global/weddings/wedding_top.jpg S|_images/global/weddings/wedding_bottom.jpg H|http://webmail.unionchurchofmonterrey.org
+vti_cachedsvcrellinks:VX|FSUS|ipage/uc/_images/highslide/highslide-with-gallery.js FSUS|ipage/uc/_images/highslide/highslide.config.js FQUS|ipage/uc/_images/highslide/highslide.css FXUS|ipage/uc/_images/highslide/highslide-ie6.css FQUS|ipage/uc/_css/global_Main.css FQUS|ipage/uc/_css/global_Menu.css FSUS|ipage/uc/_js/globalFunctions.js FSUS|ipage/uc/_js/mouseover.js FSUS|ipage/uc/includes/ice/ice.js DHUS|ipage/uc/< FSUS|ipage/uc/_images/global/logoSub.gif FSUS|ipage/uc/_images/global/subpage_headerImage3.jpg NHUS|ipage/bodas.php NHUS|mailto:weddings@unionchurchofmonterrey.org NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip01.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip01.thumb.jpg NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip02.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip02.thumb.jpg NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip07.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip07.thumb.jpg NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip22.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip22.thumb.jpg NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip24.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip24.thumb.jpg NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip03.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip03.thumb.jpg NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip05.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip05.thumb.jpg NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip06.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip06.thumb.jpg NHUS|ipage/uc/_images/highslide/sample-images/thumbstrip08.jpg NSUS|ipage/uc/_images/highslide/sample-images/thumbstrip08.thumb.jpg FSUS|ipage/uc/_images/global/weddings/wedding_top.jpg FSUS|ipage/uc/_images/global/weddings/wedding_bottom.jpg NHHS|http://webmail.unionchurchofmonterrey.org
+vti_cachedneedsrewrite:BR|false
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_metatags:VR|HTTP-EQUIV=Content-Type text/html;\\ charset=UTF-8
+vti_charset:SR|utf-8
