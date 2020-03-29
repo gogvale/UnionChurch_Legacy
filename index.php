@@ -80,7 +80,7 @@ require ("#App_Code/Page_class.php");
 	
 	  <style>
 	  	.parent-flex img{
-			  height: 5.5em;
+			  height: 3.5em;
 			  padding: 0 1em;
 		  }
 		  .parent-flex {
@@ -93,21 +93,27 @@ require ("#App_Code/Page_class.php");
 		  h1, h2,  a, a:visited {
 			  color: #CC672B;
 		  }
+		  #picArea p{
+			  margin:0;
+			  padding:0;
+		  }
+
 	  </style>
 
 	<div id="picArea">
 	<h1 style="text-align:center; padding: 10px;">A Letter from the Church - COVID-19</h1>
-	<p>March 20, 2020</p>
-	<p>Dear Brethren of the Union Church of Monterrey: <br>
-As you well know, we are living very challenging times throughout the world, and our community is no exception.  So far, we have felt most protected by our Lord and are grateful to Him because we have so enjoyed gathering on Sundays.</p>
-<p>However, due to the recommendations of specialists, it is imperative for us to now collaborate with what is required, applying health measures aimed at controlling the widespread of this dangerous virus COVID-19 in our community. </p>
+	<p>March 20, 2020</p> <br>
+	<p>Dear Brethren of the Union Church of Monterrey,</p> <br>
+	<p>As you well know, we are living very challenging times throughout the world, and our community is no exception. </p>
+	<p > So far, we have felt most protected by our Lord and are grateful to Him because we have so enjoyed gathering on Sundays.</p>
+<p>However, due to the recommendations of specialists, it is imperative for us to now collaborate with what is required, applying health measures aimed at controlling the widespread of this dangerous COVID-19 in our community. </p>
 <p>For this reason, we are organizing ourselves to support Pastor Robert Wolcott next Sundays through our church’s Facebook and Youtube pages by broadcasting his sermons both during the morning (English) and afternoon (Spanish) so that you can attend from your home.  
 <a target="_blank" rel="noreferrer noopener" href="http://www.facebook.com/UnionChurchMonterrey/posts/3063581033675788">Click here for more info.</a>
 
 </p>
 
+	<h2 style="text-align:center;">Watch the sermon on our social media</h2>
 	<div class="parent-flex">
-	<h2>Watch the sermon on our social media:</h2>
 	<a target="_blank" rel="noreferrer noopener" href="https://www.youtube.com/channel/UCuAVTw32s8DJiAE00ALKDfw">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/YouTube_play_button_circular_%282013-2017%29.svg/1200px-YouTube_play_button_circular_%282013-2017%29.svg.png" alt="Youtube Channel">
 	</a>
