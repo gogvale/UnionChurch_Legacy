@@ -1,6 +1,6 @@
 <?php
-require ("web.config.php");
-require ("#App_Code/Page_class.php");
+require "web.config.php";
+require "#App_Code/Page_class.php";
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:ice="http://ns.adobe.com/incontextediting"><!-- InstanceBegin template="/Templates/MainLayout.dwt.php" codeOutsideHTMLIsLocked="false" -->
@@ -10,7 +10,7 @@ require ("#App_Code/Page_class.php");
     <title><?php echo $defaultPageTitle ?></title>
     <!-- InstanceEndEditable -->
 
-	<!-- InstanceBeginEditable name="head_Meta" -->
+    <!-- InstanceBeginEditable name="head_Meta" -->
     <!-- InstanceEndEditable -->
     
    <link type="text/css" rel="stylesheet" href="_css/global_Main.css" />
@@ -21,8 +21,8 @@ require ("#App_Code/Page_class.php");
     <script src="includes/ice/ice.js" type="text/javascript"></script>
     <!-- InstanceBeginEditable name="head" -->
      <style type="text/css">
-		#contentTop_SubPage	{	background-color:#3767a4; }
-	 </style>
+        #contentTop_SubPage {   background-color:#3767a4; }
+     </style>
     <!-- InstanceEndEditable -->
 
 </head>
@@ -33,8 +33,8 @@ require ("#App_Code/Page_class.php");
 
   <div id="headerArea_SubPage">
     
-		<div id="headerLeft_SubPage">
-        <a href="<?php echo $relPath?>index.php"><img src="_images/global/logoSub.gif" width="180" height="77" border="0" /></a>		</div>
+        <div id="headerLeft_SubPage">
+        <a href="<?php echo $relPath?>index.php"><img src="_images/global/logoSub.gif" width="180" height="77" border="0" /></a>        </div>
         
       <div id="headerRight_SubPage">
         <!-- InstanceBeginEditable name="headerRight" -->
@@ -43,15 +43,15 @@ require ("#App_Code/Page_class.php");
       </div>
   </div>
 
-	<div id="menuArea_SubPage">
-    	<div id="menuMain">
-		<?php require ($relPath . "#Shared_Code/menuMain.php"); ?>
+    <div id="menuArea_SubPage">
+        <div id="menuMain">
+        <?php require $relPath . "#Shared_Code/menuMain.php"; ?>
         </div>
-	</div>
-	
-	<div id="contentArea_SubPage">
+    </div>
     
-    	<div id="contentTop_SubPage">
+    <div id="contentArea_SubPage">
+    
+        <div id="contentTop_SubPage">
           <div ice:editable="*"><!-- InstanceBeginEditable name="contentTop" --><img src="_images/global/hed_about_us.gif" alt="About Union Church of Monterrey" width="284" height="20" />        <!-- InstanceEndEditable --></div>
         </div>
         
@@ -121,25 +121,25 @@ require ("#App_Code/Page_class.php");
         
         <div id="contentRight_SubPage"><div class="margin">
           <div ice:editable="*"><!-- InstanceBeginEditable name="contentRight" -->
-		<img src="_images/sub/Robert_and_Sylvia_Wolcott_sm.jpg" alt="Pastor Robert and Sylvia Wolcott" width="140" height="150" />
-		<h3>Pastor Robert and Sylvia Wolcott</h3>
+        <img src="_images/sub/Robert_and_Sylvia_Wolcott_sm.jpg" alt="Pastor Robert and Sylvia Wolcott" width="140" height="150" />
+        <h3>Pastor Robert and Sylvia Wolcott</h3>
        
                 <h3><img src="_images/global/subpage_sideImage7.jpg" alt="A multi-cultural church" width="140" height="139" />
-                The unique blend of denominational backgrounds offers opportunity for a fully ecumenical expression of our Christian faith.		        </h3>
-		<!-- InstanceEndEditable --></div>
+                The unique blend of denominational backgrounds offers opportunity for a fully ecumenical expression of our Christian faith.             </h3>
+        <!-- InstanceEndEditable --></div>
       </div></div>
-        	
-	</div>
-	
-	<div class="clearFloat"></div>
-	
-	
-	<div id="footerArea">
-		<div id="footerTop"><a href="http://webmail.unionchurchofmonterrey.org" style="color:white">Log into webmail</a>
-		</div>
-	</div>
-	
-	
+            
+    </div>
+    
+    <div class="clearFloat"></div>
+    
+    
+    <div id="footerArea">
+        <div id="footerTop"><a href="http://webmail.unionchurchofmonterrey.org" style="color:white">Log into webmail</a>
+        </div>
+    </div>
+    
+    
 </div>
 </div>
 <div id="bottomShadow"></div>
