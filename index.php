@@ -113,16 +113,8 @@ require ("#App_Code/Page_class.php");
             <div class="contentText">
               <div ice:editable="*"><!-- InstanceBeginEditable name="ContentMiddle" -->
 <h2>Sunday</h2>
-10:00 AM - Sunday School<br />
-11:00 AM - Morning Worship<br />
-12:15 PM - Fellowship Hour<br />
-12:30 PM – Choir Rehearsal<br />
-
-<h2>Wednesday</h2>
-9:30 AM - Women's Guild (4th Wednesday)<br />
-6:45 PM – Prayer time<br />
-7:00 PM - Bible Study<br />
-8:00 PM - Fellowship time<br /><br />
+10:00 AM - English Service<br />
+03:00 PM - Spanish Service<br /><br />
             <!-- InstanceEndEditable --></div>
           </div>
             
